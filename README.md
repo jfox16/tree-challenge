@@ -1,6 +1,6 @@
 Hello, I'm Jonathan Fox and this is my completed challenge. You can find the Tree, Sortable, and Collapsible components from Steps 1-3 in the components folder.
 
-If you have any questions feel free to email me at FoxJonathanP@gmail.com.
+If you have any questions or comments, email me at FoxJonathanP@gmail.com
 
 
 
