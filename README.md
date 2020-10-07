@@ -1,4 +1,4 @@
-Hi, I'm Jonathan Fox (FoxJonathanP@gmail.com). This is my completed challenge. You can find the Tree, Sortable, and Collapsible components from Steps 1-3 in the components folder.
+Hello, I'm Jonathan Fox (FoxJonathanP@gmail.com) and this is my completed challenge. You can find the Tree, Sortable, and Collapsible components from Steps 1-3 in the components folder.
 
 
 
