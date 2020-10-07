@@ -1,8 +1,8 @@
+# Tree Challenge
+
 Hello, I'm Jonathan Fox and this is my completed challenge. You can find the Tree, Sortable, and Collapsible components from Steps 1-3 in the components folder.
 
 If you have any questions or comments, email me at FoxJonathanP@gmail.com
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
